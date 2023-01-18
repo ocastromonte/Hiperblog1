@@ -1,2 +1,2 @@
-Este es un ejemplo de un archivo en texto plano
-en visual studio code que trabajaremos en git bash
+Este es un ejercicio de un archivo en texto plano
+en visual studio que trabajaremos en git bash el dia de hoy
