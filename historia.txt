@@ -2,3 +2,5 @@ Este es un ejercicio de un archivo en texto plano
 en visual studio que trabajaremos en git bash el dia de hoy
 
 Ahora estamos trabajando con git reset.
+
+Luego vamos a trabajar con el comando checkout.
